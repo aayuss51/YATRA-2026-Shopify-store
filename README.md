@@ -137,7 +137,7 @@ No complex backend or build tools required! You only need a modern web browser.
 ## 🌐 Live Demo
 
 Check out the live deployment on Vercel:  
-👉 **[https://ecommerce-demo-theta.vercel.app](https://ecommerce-demo-theta.vercel.app)**
+👉 https://yatraecommdemo.vercel.app
 
 ---
 
