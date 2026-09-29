@@ -1,4 +1,4 @@
-# 🛒 YATRA / ELLEY – Modern E-Commerce Platform
+# 🛒 YATRA – Modern E-Commerce Platform
 
 A feature-rich, fully responsive front-end E-Commerce web application built with modern vanilla web technologies. It features dynamic product rendering, state persistence via LocalStorage, interactive shopping cart management, real-time modal search, and detailed product galleries with zoom.
 
